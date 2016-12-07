@@ -15,3 +15,12 @@ Billing Information
 
 3- Called action - that buttom needs to stand out
 Ex. Submit (with a good color that shows the action)
+
+=================
+Show Helper Text
+=================
+
+Helper text or acompany text: explain the user how name, adress or credit card will be used.
+Don't use helper text unless it's necessary.
+
+We can use the helper text user trigger - a link or a icon that can click or hover on that shows a pop up or tool tip with the helper text. Use few words as possible.
