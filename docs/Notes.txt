@@ -71,3 +71,12 @@ For label:
 - Use maximum of two words per label
 - Label position (better use it's in the on top of the fields but it's not a rule)
 - Always mark witch fields are required and the optional (usually with *)
+
+===============================================
+Let Users Know About the Expected Input Format
+===============================================
+
+It's more easy to enter data when you know the expected format. Make easy to the users and provide a helper tag to know which format we want. 
+Ex.
+Enter your birth date
+Month/Day/Year 
