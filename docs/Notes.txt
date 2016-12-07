@@ -1,0 +1,17 @@
+============================
+Organize the Form Propertly
+============================
+
+1 - Group the related fields - They are easy to read
+Ex.
+Personal Information
+- First Name
+- Last Name
+Billing Information
+- Address
+- Phone Number
+
+2 - Hide unesessary inputs until they are needed
+
+3- Called action - that buttom needs to stand out
+Ex. Submit (with a good color that shows the action)
