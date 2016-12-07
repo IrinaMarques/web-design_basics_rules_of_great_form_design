@@ -24,3 +24,34 @@ Helper text or acompany text: explain the user how name, adress or credit card w
 Don't use helper text unless it's necessary.
 
 We can use the helper text user trigger - a link or a icon that can click or hover on that shows a pop up or tool tip with the helper text. Use few words as possible.
+
+======================================
+Use the Correct Input Type and Length
+======================================
+
+When we are working with forms we have inputs of different types.
+
+Always use the correct input type and lenght
+- checkboxes
+- radio buttons
+- selects
+Select the right type of bottom according to their characteristics
+
+Radio button - For chose a button of a single list 
+Select vs. Radio buttons - More than 5 options in your list this will preserve lots of vertical space
+Checkboxes - For multiple selections  
+Multiple checkboxes - Can use on/off switch
+
+Text based inputs - Set according to the expected value
+The text areas - Necessary space to type and to read.
+The fields don't need to necessary have the same width.
+Ex. the zip code don't need to have the same space as the street name.
+
+Avoid: 
+Tall and arrow text areas
+Wide and short text areas
+
+Better:
+50/60 characters per line
+10 lines in height
+
