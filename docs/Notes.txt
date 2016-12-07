@@ -55,3 +55,19 @@ Better:
 50/60 characters per line
 10 lines in height
 
+====================================
+Provide Clear Labels for Each Field
+====================================
+
+Users can scan the form and know what is required of them
+
+Use a conversation with the user not a interrogation 
+
+It's common to use the fields inside the inputs, this works fine until you start to fill in. Then you don't know the field that you here in. It's recomended to use an external label.
+
+Label: you tell users what they need to fill in
+For label:
+- Simple it's better
+- Use maximum of two words per label
+- Label position (better use it's in the on top of the fields but it's not a rule)
+- Always mark witch fields are required and the optional (usually with *)
