@@ -91,5 +91,15 @@ We can offer suggestions.
 Also say when a form is filling incorrectly.
 When a user fill a form we can use a successively message.
 
+====================================
+Think About Users on Mobile Devices
+====================================
+
+Be carefull:
+- font-sizes
+
+On small screen space it's really valuable
+Consider the heights of the fields because we have to tap on the screen if the field it's not tall enought it's dificult.
+There is no hoverstate so skip this state and focus on the normal one.
 
 
