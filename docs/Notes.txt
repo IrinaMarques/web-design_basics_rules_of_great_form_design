@@ -102,4 +102,9 @@ On small screen space it's really valuable
 Consider the heights of the fields because we have to tap on the screen if the field it's not tall enought it's dificult.
 There is no hoverstate so skip this state and focus on the normal one.
 
+======================================
+Don’t Ask for Unnecessary Information
+======================================
 
+Nobody likes to completing a form so less it's more.
+People don't like to fill long forms
