@@ -80,3 +80,16 @@ It's more easy to enter data when you know the expected format. Make easy to the
 Ex.
 Enter your birth date
 Month/Day/Year 
+
+==============
+Give Feedback
+==============
+
+Tell the user when they made a mistake or when they reach a milestone.
+When a Error message appear it's useful to tell the user what is wrong sometimes using a * and a red message.
+We can offer suggestions.
+Also say when a form is filling incorrectly.
+When a user fill a form we can use a successively message.
+
+
+
